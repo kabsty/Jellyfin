@@ -1,0 +1,42 @@
+[
+    {
+        "adult": 0,
+        "avgRating": 5,
+        "category": "Metadata",
+        "expDate": null,
+        "featureId": "Bookshelf",
+        "guid": "9c4e63f1-031b-4f25-988b-4f7d78a8b53e",
+        "id": 17,
+        "installs": 0,
+        "isPremium": false,
+        "isRegistered": false,
+        "name": "Bookshelf",
+        "overview": "Supports several different metadata providers and options for organizing your collection.\n",
+        "owner": "jellyfin",
+        "packageId": 17,
+        "previewImage": "",
+        "price": 0.0,
+        "regInfo": "",
+        "richDescUrl": "",
+        "shortDescription": "Manage your books",
+        "targetSystem": "Server",
+        "thumbImage": "",
+        "titleColor": "#FFFFFF",
+        "totalRatings": 1,
+        "type": "UserInstalled",
+        "versions": [
+            {
+                "checksum": "d28051e7b9bd503354caf5558d5b747a",
+                "classification": "Release",
+                "description": "Release",
+                "name": "Bookshelf",
+                "requiredVersionStr": "10.5.0",
+                "runtimes": "netframework,netcore",
+                "sourceUrl": "https://fra1.mirror.jellyfin.org/releases/plugin/bookshelf/bookshelf_8.0.0.0.zip",
+                "targetFilename": "jellyfin-plugin-bookshelf_3.0.0.0.zip",
+                "timestamp": "2022-03-28 00:02:45",
+                "versionStr": "8.0.0.0"
+            }
+        ]
+    }
+]
